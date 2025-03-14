@@ -1,4 +1,3 @@
 # Bean Counters
 
-## Objective
-Use what you have learned about array methods and creating HTML elements using JavaScript to create lists of bean counters.
+Create a web application that displays unique bean types along with their respective counters and counts, utilizing JavaScript array methods and DOM manipulation without external libraries.
